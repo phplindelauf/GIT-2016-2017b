@@ -52,5 +52,7 @@ public class Fles
            { inhoud = 500;
            }
     }
+    
+// dit type ik erbij
         
 }
