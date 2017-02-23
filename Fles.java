@@ -32,8 +32,8 @@ public class Fles
     
     public void vullen()
     {
-        inhoud = 500;
         /// dat is een klein flesje
+        inhoud = 300;
     }
         
     public void bijvullen(int erbij)
