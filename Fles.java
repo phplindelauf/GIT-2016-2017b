@@ -33,6 +33,7 @@ public class Fles
     public void vullen()
     {
         inhoud = 500;
+        /// dat is een klein flesje
     }
         
     public void bijvullen(int erbij)
