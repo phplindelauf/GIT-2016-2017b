@@ -32,7 +32,7 @@ public class Fles
     
     public void vullen()
     {
-        inhoud = 500;
+        inhoud = 300;
     }
         
     public void bijvullen(int erbij)
